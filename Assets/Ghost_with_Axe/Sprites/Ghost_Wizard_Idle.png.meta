@@ -1,0 +1,924 @@
+fileFormatVersion: 2
+guid: b39b7965fad3e7f42bd74edc69ce1042
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4426458084399375206
+    second: Ghost_Wizard_Idle_0
+  - first:
+      213: -3400665898328460512
+    second: Ghost_Wizard_Idle_1
+  - first:
+      213: -2940551644143432567
+    second: Ghost_Wizard_Idle_2
+  - first:
+      213: 4771446223963445562
+    second: Ghost_Wizard_Idle_3
+  - first:
+      213: -5243321042420689556
+    second: Ghost_Wizard_Idle_4
+  - first:
+      213: 955211594886341944
+    second: Ghost_Wizard_Idle_5
+  - first:
+      213: 4610035006402715853
+    second: Ghost_Wizard_Idle_6
+  - first:
+      213: -2435540946075084419
+    second: Ghost_Wizard_Idle_7
+  - first:
+      213: 4118070327287177292
+    second: Ghost_Wizard_Idle_8
+  - first:
+      213: 6183642589112409066
+    second: Ghost_Wizard_Idle_9
+  - first:
+      213: -4072147803329012012
+    second: Ghost_Wizard_Idle_10
+  - first:
+      213: -2646457228899231038
+    second: Ghost_Wizard_Idle_11
+  - first:
+      213: -3321626921748830818
+    second: Ghost_Wizard_Idle_12
+  - first:
+      213: 2848679534604180979
+    second: Ghost_Wizard_Idle_13
+  - first:
+      213: -4114716756990907923
+    second: Ghost_Wizard_Idle_14
+  - first:
+      213: 1449008749261196356
+    second: Ghost_Wizard_Idle_15
+  - first:
+      213: -7275601972277612624
+    second: Ghost_Wizard_Idle_16
+  - first:
+      213: -3675959295427076891
+    second: Ghost_Wizard_Idle_17
+  - first:
+      213: -5104298716581531714
+    second: Ghost_Wizard_Idle_18
+  - first:
+      213: -1351839347789645073
+    second: Ghost_Wizard_Idle_19
+  - first:
+      213: -5406488234668568643
+    second: Ghost_Wizard_Idle_20
+  - first:
+      213: 7662168540438634380
+    second: Ghost_Wizard_Idle_21
+  - first:
+      213: -2871297121494006744
+    second: Ghost_Wizard_Idle_22
+  - first:
+      213: -7022875149301290683
+    second: Ghost_Wizard_Idle_23
+  - first:
+      213: 1230746140475546768
+    second: Ghost_Wizard_Idle_24
+  - first:
+      213: 8940153524461145733
+    second: Ghost_Wizard_Idle_25
+  - first:
+      213: 8329560207821601823
+    second: Ghost_Wizard_Idle_26
+  - first:
+      213: -4767443353855641702
+    second: Ghost_Wizard_Idle_27
+  - first:
+      213: -1234818221115135032
+    second: Ghost_Wizard_Idle_28
+  - first:
+      213: 3326571519869002275
+    second: Ghost_Wizard_Idle_29
+  - first:
+      213: 3187047132522148659
+    second: Ghost_Wizard_Idle_30
+  - first:
+      213: 8829823157886261233
+    second: Ghost_Wizard_Idle_31
+  - first:
+      213: -5694668843160502045
+    second: Ghost_Wizard_Idle_32
+  - first:
+      213: -9198379594389897489
+    second: Ghost_Wizard_Idle_33
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ghost_Wizard_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5310
+        width: 846
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c183a13df0292c0800000000000000
+      internalID: -4426458084399375206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Wizard_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 5310
+        width: 846
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023f85a02686ec0d0800000000000000
+      internalID: -3400665898328460512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Wizard_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 5310
+        width: 846
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cc32ffbdf0137d0800000000000000
+      internalID: -2940551644143432567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Wizard_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 5310
+        width: 846
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39583c7f05973240800000000000000
+      internalID: 4771446223963445562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Wizard_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 5310
+        width: 846
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c651f2fca4bfb37b0800000000000000
+      internalID: -5243321042420689556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Wizard_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4425
+        width: 846
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835e88672e7914d00800000000000000
+      internalID: 955211594886341944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Wizard_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 4425
+        width: 846
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0efbec9622aff30800000000000000
+      internalID: 4610035006402715853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Wizard_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 4425
+        width: 846
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d799641e968333ed0800000000000000
+      internalID: -2435540946075084419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Wizard_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 4425
+        width: 846
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40670ae423562930800000000000000
+      internalID: 4118070327287177292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Wizard_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 4425
+        width: 846
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb95062c26b0d550800000000000000
+      internalID: 6183642589112409066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Wizard_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3540
+        width: 846
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dedfa5e523dc77c0800000000000000
+      internalID: -4072147803329012012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Wizard_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 3540
+        width: 846
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca523efb25e54bd0800000000000000
+      internalID: -2646457228899231038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Wizard_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 3540
+        width: 846
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9569c4d9e537e1d0800000000000000
+      internalID: -3321626921748830818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Wizard_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 3540
+        width: 846
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdd10b91fa888720800000000000000
+      internalID: 2848679534604180979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Wizard_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 3540
+        width: 846
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9a53409e695e6c0800000000000000
+      internalID: -4114716756990907923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Wizard_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2655
+        width: 846
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c8520c7c9eb1410800000000000000
+      internalID: 1449008749261196356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Wizard_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 2655
+        width: 846
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfe243dd8ed70b90800000000000000
+      internalID: -7275601972277612624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Wizard_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 2655
+        width: 846
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec16433f7e5cfcc0800000000000000
+      internalID: -3675959295427076891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Wizard_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 2655
+        width: 846
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfecaa6c53e929b0800000000000000
+      internalID: -5104298716581531714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Wizard_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 2655
+        width: 846
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea3a99864d4d3de0800000000000000
+      internalID: -1351839347789645073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Wizard_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1770
+        width: 846
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf404a689b48f4b0800000000000000
+      internalID: -5406488234668568643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Wizard_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1770
+        width: 846
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f940e01bd755a60800000000000000
+      internalID: 7662168540438634380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Wizard_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1770
+        width: 846
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8248fb41b7a1728d0800000000000000
+      internalID: -2871297121494006744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Wizard_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 1770
+        width: 846
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5496affa24cb98e90800000000000000
+      internalID: -7022875149301290683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Wizard_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 1770
+        width: 846
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c5abf081d741110800000000000000
+      internalID: 1230746140475546768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Wizard_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 885
+        width: 846
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e86f6734ec11c70800000000000000
+      internalID: 8940153524461145733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Wizard_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 885
+        width: 846
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c7f6a80ea889370800000000000000
+      internalID: 8329560207821601823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Wizard_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 885
+        width: 846
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9733a65783a6ddb0800000000000000
+      internalID: -4767443353855641702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Wizard_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 885
+        width: 846
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cba048ce5b0ddee0800000000000000
+      internalID: -1234818221115135032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Wizard_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 885
+        width: 846
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32229b12c2b5a2e20800000000000000
+      internalID: 3326571519869002275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Wizard_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 846
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333f8683b7aaa3c20800000000000000
+      internalID: 3187047132522148659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Wizard_Idle_31
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 0
+        width: 846
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f714533165d98a70800000000000000
+      internalID: 8829823157886261233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Wizard_Idle_32
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 0
+        width: 846
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e00fe9dbd878f0b0800000000000000
+      internalID: -5694668843160502045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost_Wizard_Idle_33
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 0
+        width: 846
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee30377e7ac85080800000000000000
+      internalID: -9198379594389897489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

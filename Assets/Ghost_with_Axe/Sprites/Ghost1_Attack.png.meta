@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: 88fac0286a83d5d458c078ff15cace7a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2047875306998373203
+    second: Ghost1_Attack_0
+  - first:
+      213: -5163493384005261606
+    second: Ghost1_Attack_1
+  - first:
+      213: 7297459072818732578
+    second: Ghost1_Attack_2
+  - first:
+      213: -3182404152237139079
+    second: Ghost1_Attack_3
+  - first:
+      213: 5150066000348112596
+    second: Ghost1_Attack_4
+  - first:
+      213: 2709958546136638581
+    second: Ghost1_Attack_5
+  - first:
+      213: -2482513856733426859
+    second: Ghost1_Attack_6
+  - first:
+      213: 7942023657886170965
+    second: Ghost1_Attack_7
+  - first:
+      213: -6080105398070399802
+    second: Ghost1_Attack_8
+  - first:
+      213: -365654051318661561
+    second: Ghost1_Attack_9
+  - first:
+      213: 7817108291234856823
+    second: Ghost1_Attack_10
+  - first:
+      213: -6413930308894250736
+    second: Ghost1_Attack_11
+  - first:
+      213: 6839919774919012929
+    second: Ghost1_Attack_12
+  - first:
+      213: 324090019592146864
+    second: Ghost1_Attack_13
+  - first:
+      213: -6834302634766256983
+    second: Ghost1_Attack_14
+  - first:
+      213: -6974807994427227056
+    second: Ghost1_Attack_15
+  - first:
+      213: 7504160447750596325
+    second: Ghost1_Attack_16
+  - first:
+      213: 5536311208334651680
+    second: Ghost1_Attack_17
+  - first:
+      213: -7264684965184904818
+    second: Ghost1_Attack_18
+  - first:
+      213: 3866082821393755434
+    second: Ghost1_Attack_19
+  - first:
+      213: 188547030668285962
+    second: Ghost1_Attack_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ghost1_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3456
+        width: 847
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b9ee9ddb38b6c10800000000000000
+      internalID: 2047875306998373203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost1_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 3456
+        width: 847
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad66946ef169758b0800000000000000
+      internalID: -5163493384005261606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost1_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 3456
+        width: 847
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22edf46fc58c54560800000000000000
+      internalID: 7297459072818732578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost1_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 3456
+        width: 847
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b5d2ed844d5d3d0800000000000000
+      internalID: -3182404152237139079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost1_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 3456
+        width: 847
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6e098bdb5b87740800000000000000
+      internalID: 5150066000348112596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost1_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2592
+        width: 847
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574228290f4bb9520800000000000000
+      internalID: 2709958546136638581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost1_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 2592
+        width: 847
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b4b6bdcc65c8dd0800000000000000
+      internalID: -2482513856733426859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost1_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 2592
+        width: 847
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fbd0e207cb73e60800000000000000
+      internalID: 7942023657886170965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost1_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 2592
+        width: 847
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc241faa502f9ba0800000000000000
+      internalID: -6080105398070399802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost1_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 2592
+        width: 847
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ef770e39feceaf0800000000000000
+      internalID: -365654051318661561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost1_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 847
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f70d5f292fb7c60800000000000000
+      internalID: 7817108291234856823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost1_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1728
+        width: 847
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0192f34dd542df6a0800000000000000
+      internalID: -6413930308894250736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost1_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 1728
+        width: 847
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142b73cbbc64cee50800000000000000
+      internalID: 6839919774919012929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost1_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 1728
+        width: 847
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf0a0dd7266f7400800000000000000
+      internalID: 324090019592146864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost1_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 1728
+        width: 847
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4bd3f96fda721a0800000000000000
+      internalID: -6834302634766256983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost1_Attack_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 847
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0544c9b4511843f90800000000000000
+      internalID: -6974807994427227056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost1_Attack_16
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 864
+        width: 847
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6e5b12b22242860800000000000000
+      internalID: 7504160447750596325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost1_Attack_17
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 864
+        width: 847
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021fcca16bde4dc40800000000000000
+      internalID: 5536311208334651680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost1_Attack_18
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 864
+        width: 847
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81680d9387ae2b90800000000000000
+      internalID: -7264684965184904818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost1_Attack_19
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 864
+        width: 847
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d2a69b7d517a530800000000000000
+      internalID: 3866082821393755434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost1_Attack_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 847
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a081072868add9200800000000000000
+      internalID: 188547030668285962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

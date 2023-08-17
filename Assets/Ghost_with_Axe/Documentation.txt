@@ -1,0 +1,35 @@
+	
+--------------Ghost with Axe 2D---------------------------
+
+2D Animation Spritesheet's of a creepy ghost.You can use this pack in your game commercially and non-commercially.
+
+Technical Details:-
+		
+		- Total Spritesheets : 6
+		- Animations : 3(Idle, attack, run/walk)
+		- File format : PNG
+		- Sheet Resolution and Frames count: 
+			Ghost_attack - 4235 x 4320 (20)
+			Ghost_idle - 5082 x 3456 (24)
+			Ghost_run - 5082 x 3456 (24)
+			
+Features:-
+	- Different Unique ghosts
+	- Smooth loop animations
+	- Prefabs included
+	- High quality images
+	- Mobile supported
+	- Demo scenes included
+	
+How to use:-
+	
+	Simply drag and drop any Spritesheet animation from the Prefab (Ghost_with_Axe > Prefabs) folder
+	to you scene.
+
+..................................................................................
+
+About Me : "SR Studios Kerala", Indie Game developer & 3D Artist from Alappuzha, Kerala, India
+
+Contact : srstudioskerala@gmail.com
+
+................Thank you for downloading this package................................
